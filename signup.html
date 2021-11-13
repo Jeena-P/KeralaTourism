@@ -1,0 +1,74 @@
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <title>KeralaTourism.Signup</title>
+            <link rel="stylesheet" href="signup.css">
+            <link rel="stylesheet" href="bootstrap.min.css">
+        </head>
+        <body background="Images/signupp.jpg">
+            <nav class="navbar fixed-top navbar-light bg-light">
+                <div class="container-fluid">
+                  <a class="navbar-brand" href="#">Join us and Travel Together</a>
+                </div>
+              </nav>
+              <!--Aside Content-->
+             <div id="Heading"> <h2>Popular Destinations</h2></div>
+              <div class="listItems">
+         <li>
+              Kochi     
+         </li>
+         <li> 
+             Munnar
+        </li>
+        <li>
+            Edakkal Caves
+         </li>
+         <li>
+              Padmanabhaswami Temple
+         </li>
+             </div>
+               <div id="MuchMore"><h4>And Much More!</h4></div>
+               <br>
+               <br>
+               <br>
+               <!--Sign Up Form-->
+        <div class="form">
+            <form action="http://127.0.0.1:5500/homepage.html" onsubmit="return check()">
+            <div id="titl"><h2>User Sign up</h2></div>
+            <br>
+            <div class="user">
+                <label>Name</label>
+                <input type="Enter your name" placeholder="Enter Name" width="40px" id="user">
+            </div>
+             <br>
+            <div class="Pass">
+                <label>Password</label>
+                <input type="Enter your password" placeholder="Create your Password" width="40px" id="Pass">
+            </div>
+            <br>
+            <div class="Email">
+                <label>Email</label>
+                <input type="Enter an Email id" placeholder="Enter e-mail id" width="40px" id="gmail">
+                <label for="error" id="error"></label>
+            </div>
+            <br>
+            <div class="Phone">
+                <label>Contact</label>
+                <input type="Enter Phone number" placeholder="Enter Phone number" width="40px" id="mobile" value="">
+                <span id="messages"style="color: red;></span><br>
+                <label for="error"></label>
+            </div>
+            <div class="logbutton">
+                <input type="submit" value="Sign up">
+            </div>
+           </form>
+        </div>
+        <script src="signupform.js"></script>
+        <!--Footer-->
+        <nav class="navbar fixed-bottom navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Contact us for enquiry. Let's plan this trip together.</a>
+            </div>
+          </nav>
+        </body>
+        </html>

@@ -1,0 +1,51 @@
+{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size:cover;
+}
+#Heading{
+    color: #0d09e6;
+    font-size: 100px;
+    margin-top: 4cm;
+    margin-left: 2.5cm;
+    font-family: monospace;
+    font-weight: bolder;
+    font-style: italic;
+}
+.listItems{
+    color: rgb(239, 248, 241);
+    margin-left: 2cm;
+}
+#MuchMore{
+    color: rgb(71, 158, 230);
+    margin-left: 2cm;
+}
+.form{
+     float: right;
+     background-color: rgb(255, 255, 253);
+     float: initial;
+     margin-left: 900px;
+     margin-right: 150px;
+     margin-bottom: 100px;
+}
+#titl{
+    padding-left: 60px;
+}
+.user{
+    padding-left: 20px;
+}
+.Pass{
+    padding-left: 20px;
+}
+.Email{
+    padding-left: 20px;
+}
+.logbutton{
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+.Phone{
+    padding-left: 20px;
+}

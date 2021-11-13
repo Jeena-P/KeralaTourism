@@ -1,0 +1,60 @@
+{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+#First{
+    color:rgb(21, 18, 160);
+    text-align: center;
+    font-family: fantasy;
+    font-style: oblique;
+}
+#Second{
+    color: rgb(7, 176, 182);
+    font-family:sans-serif;
+}
+#Third{
+    color: rgb(42, 37, 114) ;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 50px;
+}
+#elephantimage{
+    margin-left: 500px;
+}
+#Fourth{
+    color: rgb(42, 37, 114) ;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 50px;
+}
+#Fifth{
+    color: rgb(42, 37, 114) ;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 50px;
+}
+#AdventureImage{
+    margin-left: 500px;
+}
+#Sixth{
+    color: rgb(42, 37, 114) ;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 50px;
+}
+button
+{
+    color: rgb(31, 15, 179);
+    background-color: rgb(235, 181, 156);
+    font-style: italic;
+    font-weight: bolder;
+    align-content: center;
+    padding: auto;
+}
+.ExploreButton{
+    margin-left: 600px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,24 @@
+{
+    padding: 0;
+    margin: 0;  
+}
+body{
+    background-size: cover;
+}
+.Tvm{
+    margin-left: 15cm;
+    }
+h2{
+    color: rgb(207, 253, 189);
+    font-family:initial
+    text-decoration:underline;
+    background-color: rgb(3, 85, 3);
+}
+p
+{
+    color: cornsilk;
+    background-color: rgb(3, 85, 3);
+}
+.Klm{
+    margin-left: 15cm;
+}
